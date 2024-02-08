@@ -1,5 +1,5 @@
-# ASAP_front
-ASAP 프론트엔드
+# ASAP_LangChain
+사용자에게 입력받은 항목을 광고 문구로 변환해주는 기능
 
 # 커밋 룰
 
