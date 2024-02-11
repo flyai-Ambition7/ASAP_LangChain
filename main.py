@@ -1,12 +1,10 @@
 from dotenv import load_dotenv
 from openai import OpenAI
-from langchain_community.llms import openai
 from langchain.chains import LLMChain
 from langchain.prompts import PromptTemplate
 from langchain_openai import OpenAI
 import os
-import httpx
-
+import streamlit as st
 
 load_dotenv()
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
@@ -21,6 +19,10 @@ llm = OpenAI(model_name="gpt-3.5-turbo-instruct")
 
 llm_chain = LLMChain(prompt=prompt, llm=llm)
 
-question = "What NFL team won the Super Bowl in the year Justin Beiber was born?"
+question = "make one line advertisement text about coffee in korean"
 
-print(llm_chain.invoke(question))
+st.text_input('설명')
+
+if st.button('Submit', type='primary'):
+    with st.spinner('생성 중...'):
+        st.write(llm_chain.invoke(question))
