@@ -1,0 +1,63 @@
+aiohttp @ file:///C:/b/abs_27h_1rpxgd/croot/aiohttp_1707342354614/work
+aiosignal @ file:///tmp/build/80754af9/aiosignal_1637843061372/work
+anyio @ file:///C:/b/abs_847uobe7ea/croot/anyio_1706220224037/work
+async-timeout @ file:///C:/b/abs_c8fgiuixkq/croot/async-timeout_1703097556097/work
+attrs @ file:///C:/b/abs_35n0jusce8/croot/attrs_1695717880170/work
+Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
+certifi @ file:///C:/b/abs_35d7n66oz9/croot/certifi_1707229248467/work/certifi
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click @ file:///C:/b/abs_f9ihnt72pu/croot/click_1698129847492/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+dataclasses-json @ file:///C:/b/abs_edxyjf9i7x/croot/dataclasses-json_1682969367890/work
+distro @ file:///C:/b/abs_a3uni_yez3/croot/distro_1701455052240/work
+exceptiongroup @ file:///C:/b/abs_c5h1o1_b5b/croot/exceptiongroup_1706031441653/work
+frozenlist @ file:///C:/b/abs_d8e__s1ys3/croot/frozenlist_1698702612014/work
+greenlet @ file:///C:/b/abs_a6c75ie0bc/croot/greenlet_1702060012174/work
+h11 @ file:///C:/b/abs_1czwoyexjf/croot/h11_1706652332846/work
+httpcore @ file:///C:/b/abs_55n7g233bw/croot/httpcore_1706728507241/work
+httpx @ file:///C:/b/abs_70wr6jzznw/croot/httpx_1706887145357/work
+idna @ file:///C:/b/abs_bdhbebrioa/croot/idna_1666125572046/work
+iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
+jsonpatch @ file:///home/conda/feedstock_root/build_artifacts/jsonpatch_1695536281965/work
+jsonpointer==2.1
+langchain @ file:///home/conda/feedstock_root/build_artifacts/langchain_1707450704401/work
+langchain-community @ file:///home/conda/feedstock_root/build_artifacts/langchain-community_1707355274488/work
+langchain-core @ file:///home/conda/feedstock_root/build_artifacts/langchain-core_1707444007205/work
+langchain-openai==0.0.5
+langsmith==0.0.87
+marshmallow @ file:///C:/b/abs_2a28q2ehfk/croot/marshmallow_1682620739649/work
+marshmallow-enum @ file:///C:/ci_310/marshmallow-enum_1642674085091/work
+mkl-fft @ file:///C:/b/abs_19i1y8ykas/croot/mkl_fft_1695058226480/work
+mkl-random @ file:///C:/b/abs_edwkj1_o69/croot/mkl_random_1695059866750/work
+mkl-service==2.4.0
+multidict @ file:///C:/b/abs_44ido987fv/croot/multidict_1701097803486/work
+mypy-extensions @ file:///C:/b/abs_8f7xiidjya/croot/mypy_extensions_1695131051147/work
+numexpr @ file:///C:/b/abs_5fucrty5dc/croot/numexpr_1696515448831/work
+numpy @ file:///C:/b/abs_16b2j7ad8n/croot/numpy_and_numpy_base_1704311752418/work/dist/numpy-1.26.3-cp310-cp310-win_amd64.whl#sha256=e84057072c37569bd0e11652dc2a75980d4d360f2391adf6a29a2fb1622d20ff
+openai==1.12.0
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1696202382185/work
+pandas @ file:///C:/b/abs_fej9bi0gew/croot/pandas_1702318041921/work/dist/pandas-2.1.4-cp310-cp310-win_amd64.whl#sha256=186ecb939535861d7a5c9527cbb8529ba1031ca6e0c2ddfb054baa09e2fcc2e0
+pandas-stubs @ file:///C:/b/abs_40x234mbvi/croot/pandas-stubs_1705008121262/work
+pluggy @ file:///C:/ci/pluggy_1648042746254/work
+pydantic @ file:///C:/b/abs_9byjrk31gl/croot/pydantic_1695798904828/work
+pytest @ file:///C:/b/abs_48heoo_k8y/croot/pytest_1690475385915/work
+pytest-subtests @ file:///home/conda/feedstock_root/build_artifacts/pytest-subtests_1684165519839/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dotenv @ file:///C:/b/abs_edyrwjya7k/croot/python-dotenv_1669132572913/work
+pytz @ file:///C:/b/abs_19q3ljkez4/croot/pytz_1695131651401/work
+PyYAML @ file:///C:/b/abs_782o3mbw7z/croot/pyyaml_1698096085010/work
+regex==2023.12.25
+requests @ file:///C:/b/abs_474vaa3x9e/croot/requests_1707355619957/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio @ file:///C:/b/abs_3akdewudo_/croot/sniffio_1705431337396/work
+SQLAlchemy @ file:///C:/b/abs_876dxwqqu8/croot/sqlalchemy_1705089154696/work
+tenacity @ file:///C:/b/abs_ddkoa9nju6/croot/tenacity_1682972298929/work
+tiktoken==0.5.2
+tomli @ file:///C:/Windows/TEMP/abs_ac109f85-a7b3-4b4d-bcfd-52622eceddf0hy332ojo/croots/recipe/tomli_1657175513137/work
+tqdm @ file:///C:/b/abs_f76j9hg7pv/croot/tqdm_1679561871187/work
+types-pytz @ file:///C:/b/abs_e3rdamg6_o/croot/types-pytz_1665514258134/work
+typing-inspect @ file:///C:/b/abs_7eg5ofvujb/croot/typing_inspect_1695742119921/work
+typing_extensions @ file:///C:/b/abs_72cdotwc_6/croot/typing_extensions_1705599364138/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3 @ file:///C:/b/abs_a9n398cvep/croot/urllib3_1700840517182/work
+yarl @ file:///C:/b/abs_8bxwdyhjvp/croot/yarl_1701105248152/work
