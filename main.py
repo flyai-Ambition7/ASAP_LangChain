@@ -11,15 +11,15 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 llm = OpenAI(model_name="gpt-3.5-turbo-instruct")
 
-store_name = 'abc마트'
+store_name = ''
 purpose = ''
 result_type = ''
-theme = '밝은 분위기'
+theme = ''
 
 
-product_name = '운동화'
-price='15000'
-description = '검은색 신발 초등학생한테 인기 많음'
+product_name = ''
+price = ''
+description = ''
 business_hours = ''
 location = ''
 contact = ''
